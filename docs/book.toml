@@ -11,3 +11,7 @@ edition = "2021"
 [build]
 build-dir = "docs"
 create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/jumpcrypto/crypto-reading-list"
+site-url = "/crypto-reading-list/"
